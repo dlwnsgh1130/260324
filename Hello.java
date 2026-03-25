@@ -16,6 +16,7 @@ public class Hello {
 		hello.print("Java",20);
 		hello.print("Java",20);
 		hello.print("Java",20);
+		//주석처리 후 commit
 		
 		
 	}
