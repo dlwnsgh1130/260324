@@ -14,6 +14,9 @@ public class Hello {
 		//TODO Auto-generated method stub
 		Hello hello = new Hello();//new 키워드를 사용해 객체 생성
 		hello.print("Java",20);
+		hello.print("Java",20);
+		hello.print("Java",20);
+		
 		
 	}
 
